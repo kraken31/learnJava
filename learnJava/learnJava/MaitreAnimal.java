@@ -6,6 +6,8 @@ public class MaitreAnimal {
 		// TODO Auto-generated method stub
 	    String reactionAnimal;	
 
+	    System.out.println("Test d'édition dans git");
+	    
 	    AnimalFamilier monAnimal = new AnimalFamilier();
 
 	    monAnimal.manger();
